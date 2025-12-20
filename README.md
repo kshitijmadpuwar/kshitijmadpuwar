@@ -1,4 +1,4 @@
 Kshitij Madpuwar 👋
-this is my first repository and i am happy too create
+This is my first repository 
 
 Author -> KSHITIJ MADPUWAR
