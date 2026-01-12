@@ -19,10 +19,10 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-- Java, C++, JavaScript  
+- Java,JavaScript  
 
 **Backend:**  
-- Spring Boot, JDBC, REST APIs  
+- Spring Boot, JDBC, Spring MVC, Spring Security, REST APIs  
 
 **Frontend:**  
 - HTML, CSS, JavaScript  
@@ -31,7 +31,7 @@
 - MySQL  
 
 **Tools:**  
-- Git, GitHub, Postman, IntelliJ, VS Code  
+- Git, GitHub, Postman, Eclipse, VS Code  
 
 ---
 
@@ -62,7 +62,7 @@
 ## 🤝 Connect With Me
 
 - 📧 Email: kshitijmadpuwar@gmail.com  
-- 💼 LinkedIn: *(add your LinkedIn profile link here)*
+- 💼 LinkedIn: *(www.linkedin.com/in/kshitijmadpuwar)*
 
 ---
 
