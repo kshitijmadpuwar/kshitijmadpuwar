@@ -37,7 +37,6 @@
 
 ## 📌 Featured Projects
 
-> (Pin these repositories on your GitHub profile)
 
 - 🏦 **Banking Application (Java)**  
   → Account creation, deposit, withdrawal, balance check, exception handling  
