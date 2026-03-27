@@ -1,6 +1,6 @@
 # Hi, I'm Kshitij 👋
 
-I am a Java backend developer in progress, focused on building real-world applications and improving problem-solving skills.
+I am a Java Full Stack developer in progress, focused on building real-world applications and improving problem-solving skills.
 
 Currently, I am working with Java, Spring Boot, and DSA, and trying to understand how scalable backend systems are designed.
 
