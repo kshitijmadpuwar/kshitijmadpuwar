@@ -1,74 +1,77 @@
-# Hi, I'm Kshitij Madpuwar 👋
+# Hi, I'm Kshitij 👋
 
-🚀 **Aspiring Java Backend / Full Stack Developer**  
-💻 Passionate about building **scalable backend applications** using **Java & Spring Boot**  
-📚 Currently focusing on **DSA, Spring Boot, and real-world projects**
+I am a Java backend developer in progress, focused on building real-world applications and improving problem-solving skills.
 
-
-
-## 👨‍💻 About Me
-
-- 🎓 Engineering student & self-taught developer
-- 🔥 Strong interest in **Backend Development**
-- 🌱 Currently learning: **Spring Boot, REST APIs, MySQL, DSA**
-- 🎯 Goal: Become an **expert Java developer** and build impactful software products
-- 💼 Open to **Internship / Fresher Java Developer roles**
+Currently, I am working with Java, Spring Boot, and DSA, and trying to understand how scalable backend systems are designed.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- Engineering student  
+- Strong interest in backend development  
+- Currently learning Spring Boot, REST APIs, and DSA  
+- Improving logic building and consistency  
+- Looking for internship / entry-level Java developer roles  
+
+---
+
+## Tech Stack
 
 **Languages:**  
-- Java,JavaScript  
+Java, JavaScript  
+
+**Core Concepts:**  
+OOP, Exception Handling, Multithreading (basics), Collections Framework, JDBC  
 
 **Backend:**  
-- Spring Boot, JDBC, Spring MVC, Spring Security, REST APIs  
+Spring Boot, Spring MVC, REST APIs  
 
 **Frontend:**  
-- HTML, CSS, JavaScript  
+HTML, CSS, JavaScript  
 
 **Database:**  
-- MySQL  
+MySQL  
 
-**Tools:**  
-- Git, GitHub, Postman, Eclipse, VS Code  
-
----
-
-## 📌 Featured Projects
-
-
-- 🏦 **Banking Application (Java)**  
-  → Account creation, deposit, withdrawal, balance check, exception handling  
-
-- 🎓 **Student Management System (Spring Boot)**  
-  → REST API, CRUD operations, validation, database integration  
-
-- 📚 **Java DSA Practice**  
-  → Topic-wise problems: Arrays, Strings, Recursion, LinkedList, Stack, Tree, etc.
+**Tools & Platforms:**  
+Git, GitHub, Postman, VS Code, Eclipse  
 
 ---
 
-## 📊 What I'm Currently Doing
+## Projects
 
-- ✅ Improving **problem-solving & logic building**
-- ✅ Building **Spring Boot backend projects**
-- ✅ Practicing **DSA in Java**
-- ✅ Preparing for **Java Developer job interviews**
+**Banking Application (Core Java)**  
+- Developed features like account creation, deposit, withdrawal, and balance check  
+- Implemented custom exceptions (InsufficientBalance, NegativeAmount, LowBalance)  
+- Focused on OOP design and real-world logic handling  
 
----
+**Student Management System (Spring Boot)**  
+- Built REST APIs for CRUD operations  
+- Integrated MySQL database using Spring Boot  
+- Applied basic validation and layered architecture  
 
-## 🤝 Connect With Me
-
-- 📧 Email: kshitijmadpuwar@gmail.com  
-- 💼 LinkedIn: *(www.linkedin.com/in/kshitijmadpuwar)*
-
----
-
-## 🧠 Quote I Believe In
-
-> "First make it work, then make it right, then make it fast."
+**DSA Practice (Java)**  
+- Solved problems on arrays, strings, recursion, linked list, stack, tree  
+- Working on improving problem-solving approach and time complexity understanding  
 
 ---
 
-⭐ If you like my work, consider checking out my repositories!
+## What I'm Currently Doing
+
+- Practicing DSA consistently  
+- Learning Spring Boot deeper (security, optimization next)  
+- Building backend-focused projects  
+- Preparing for Java developer interviews  
+
+---
+
+## Connect
+
+Email: kshitijmadpuwar@gmail.com  
+LinkedIn: www.linkedin.com/in/kshitijmadpuwar  
+
+---
+
+## One Thing About Me
+
+I focus more on consistency than perfection and try to improve a little every day.
