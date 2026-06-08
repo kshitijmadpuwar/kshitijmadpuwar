@@ -12,7 +12,7 @@ Currently, I am working with Java, Spring Boot, and DSA, and trying to understan
 - Strong interest in backend development  
 - Currently learning Spring Boot, REST APIs, and DSA  
 - Improving logic building and consistency  
-- Looking for internship / entry-level Java developer roles  
+
 
 ---
 
