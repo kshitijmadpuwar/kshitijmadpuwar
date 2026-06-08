@@ -40,12 +40,12 @@ Git, GitHub, Postman, VS Code, Eclipse
 
 ## Projects
 
-**Banking Application (Core Java)**  
+**FInCore-Banking Application (Java, Spring Boot)**  
 - Developed features like account creation, deposit, withdrawal, and balance check  
 - Implemented custom exceptions (InsufficientBalance, NegativeAmount, LowBalance)  
 - Focused on OOP design and real-world logic handling  
 
-**Student Management System (Spring Boot)**  
+**StudentSphare (Core Java)**  
 - Built REST APIs for CRUD operations  
 - Integrated MySQL database using Spring Boot  
 - Applied basic validation and layered architecture  
