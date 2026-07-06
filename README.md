@@ -4,7 +4,7 @@ I am a Java Full Stack developer in progress, focused on building real-world app
 
 Currently, I am working with Java, Spring Boot, and DSA, and trying to understand how scalable backend systems are designed.
 
----
+--
 ## About Me
 
 - Engineering student  
